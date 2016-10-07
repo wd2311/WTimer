@@ -137,7 +137,7 @@ public class Main extends Application{
 	
 	private void title(){
 		//titleLabel = new Label("Jumpy Man!");
-		titleLabel = new Label("Jonny Sucks!!");
+		titleLabel = new Label("Title");
 		titleLabel.setFont(Font.font("Tahoma", 20));
 		grid.add(titleLabel, 0, 0);
 	}//title
